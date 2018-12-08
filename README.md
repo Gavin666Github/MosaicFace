@@ -1,10 +1,10 @@
 # MosaicFace
-|Before|After|
+|After|Before|
 |---|---|
 |![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/MosaicImages/mosic_lena.jpg)|![](https://github.com/TomoyaFujita2016/MosaicFace/blob/master/OriginalImages/lena.jpg)
 
 ## Usage
-  1. ``` git clone https://github.com/TomoyaFujita2016/MosaicFace.git ```
+  1. ``` git clone https://github.com/Gavin666Github/MosaicFace.git ```
   2. ``` cd MosaicFace ```
   3. ``` python3 generateMosaicFace.py ``` (In order to make dirs.)
   4. ``` cp "ImageFileDir"/* OriginalImages/ ``` 
